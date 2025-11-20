@@ -1,0 +1,7 @@
+{
+  "name": "StudySnap AI",
+  "description": "Takes photos of study materials, extracts text using OCR, and generates interactive quizzes with AI-powered hints to boost study efficiency.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
